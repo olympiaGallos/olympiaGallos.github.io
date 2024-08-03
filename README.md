@@ -3,8 +3,8 @@
 # Hi, my name is Olympia! 👋
 
 I am currently a PhD student at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html), [UZH](https://www.uzh.ch/en.html) and [ETH](https://ethz.ch/en.html) Zurich, Switzerland in the Neuromorphic Cognitive Systems [(NCS)](https://www.ini.uzh.ch/en/research/groups/ncs.html) group. 
-My research journey so far involves 
-Previously, I earned my BSc and integrated Master of Engineering (MEng) from the ECE department of the Technical University of Crete (TUC). 
+My research journey so far involves. 
+Previously, I earned my BSc and integrated Master of Engineering (MEng) from the ECE department of the [Technical University of Crete (TUC)](https://www.tuc.gr/en/home). 
 
 ## 🚀 About Me
 
