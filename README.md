@@ -8,8 +8,8 @@ Previously, I earned my BSc and Integrated Master of Engineering (MEng) from the
 ## 🌱 Currently Exploring
 
 ## Education 
-- PhD student, Neuroscience | University of Zurich, Switzerland (2022-present)
-- M.Eng., Electrical Engineering and Computer Engineering | Technical University of Crete, Greece (2015-2021)
+- PhD, Neuroscience | University of Zurich, Switzerland (2022-present)
+- BSc and M.Eng., Electrical Engineering and Computer Engineering | Technical University of Crete, Greece (2015-2021)
 
 Thanks for stopping by! Let's connect. 🚀
 
