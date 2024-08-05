@@ -1,5 +1,3 @@
-# olympiaGallos.github.io
-
 # Welcome, my name is Olympia! 👋
 
 ## 🔭 About Me
