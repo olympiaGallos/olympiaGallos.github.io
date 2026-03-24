@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Olympia Gallou"
 description              : &description "personal description"
 url: "https://olympiagallos.github.io"
-baseurl: "/olympiagallou.github.io"
+baseurl: "/olympiagallos.github.io"
 repository: "olympiaGallos/olympiagallou.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
