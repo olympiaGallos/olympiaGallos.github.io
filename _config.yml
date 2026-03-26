@@ -24,10 +24,10 @@ author:
   avatar           : "cropped_image_web.png"
   name             : "Olympia Gallou"
   #pronouns         : # example: "she/her"  
-  bio              : "Computer engineer turned PhD neuroscience researcher👩🏻‍💻📚, exploring the neuromorphic world and epilepsy disorder! 🧠🔭"
+  bio              : "Computer engineer turned PhD neuroAI researcher👩🏻‍💻🧠🔭📚" #, exploring the neuromorphic world and epilepsy disorder! 🧠🔭"
   location         : "Zurich, Switzerland"
   employer         : "UZH and ETH, Institute of Neuroinformatics"
-  uri              : "https://www.ini.uzh.ch/en.html" #URL
+  #uri              : "https://www.ini.uzh.ch/en.html" #URL
   email            : "olympiagallou@gmail.com" 
   linkedin         : "https://www.linkedin.com/in/olympia-gallou/"
   googlescholar    : "https://scholar.google.com/citations?user=IMRrI3AAAAAJ&hl=en"
