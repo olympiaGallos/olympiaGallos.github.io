@@ -13,6 +13,9 @@ main:
   - title: "CV"
     url: /files/cv_olympia_2024.pdf
 
+  - title: "News"
+    url: /news/
+
   - title: "Publications"
     url: /publications/
     
