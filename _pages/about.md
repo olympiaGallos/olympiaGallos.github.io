@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I'm Olympia 🙋🏻‍♀️. Welcome to my page! 🌱"
+title: "Hi there, I'm Olympia 🙋🏻‍♀️. Welcome 🌱"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,8 +16,13 @@ redirect_from:
 - On my way to become a **neuromorph** 🧠 and translate my skills to the development of neuromorphic algorithms that tackle pressing biomedical challenges (such as epileptic seizure detection).
 - I am highly interested in **Neuromorphic Intelligence**, **Applied Machine Learning** and **data-driven tools** that can transform how we understand and treat biomedical conditions.
 - My master thesis titled "Delineating the Epileptogenic Zone by Accurately Determining the High Frequency Oscillation (HFO) Area using Classification of the Extracted Features" introduced me to novel epileptic biomarkers, EEG analysis and involved feature engineering and supervised machine learning algorithms. 
+
+## GET IN TOUCH 📬
+
+- Email: olympia@ini.uzh.ch, olympiagallou@gmail.com
+- Linkedin: [here](https://www.linkedin.com/in/olympia-gallou/)
   
-# A LITTLE BIT MORE ABOUT ME ⛹🏻‍♀️
+# A BIT MORE PERSONAL
 
 - 🇬🇷 I am from Greece and have spent nearly all my life in the 2 biggest greek islands, always close to the sea💙. I grew up in Chalkida-Evoia Island, and moved to Chania on Crete for my studies at 18y. I spent nearly six unforgettable years there. During late-covid period, when I turned 25, I embarked on a new adventure and moved to Switzerland🇨🇭. After a short-term internship period in Lausanne, I transitioned into my PhD journey in Zurich (#noregrets). Though I miss the sea, the rivers and lakes here offer their own charm. And of course... it's time to see mountains (Mountains, Gandalf!)⛰🧗🏔
 - 🎸🎼 I love arts in general but above all playing music and singing.
@@ -25,10 +30,6 @@ redirect_from:
 - 📸 Wherever I go, I make sure to capture each moment through my lenses, ensuring that every little experience is immortalized. Photography is another long-lasting passion of mine that also goes hand in hand with traveling.
 - 🌿 Living in Switzerland has helped me to indulge more in nature and hiking in my free time.
    
-## GET IN TOUCH 📬
-
-- Email: olympia@ini.uzh.ch, olympiagallou@gmail.com
-- Linkedin: [here](https://www.linkedin.com/in/olympia-gallou/)
   
 ## COLLABORATIONS & STUDENT PROJECTS 🦾
 

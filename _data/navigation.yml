@@ -15,9 +15,21 @@ main:
 
   - title: "Publications"
     url: /publications/
+    
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Workshops"
+    url: /workshops/
 
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Photography"
+    url: /photography/
+
+  - title: "Random"
+    url: /random/
 
   #- title: "Guide"
   #  url: /markdown/
