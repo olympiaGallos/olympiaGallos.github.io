@@ -14,4 +14,4 @@ citation: 'Bartels, J., Gallou, O., Ito, H., Cook, M., Sarnthein, J., Indiveri, 
 **Published:** 7 May 2025  
 
 🔗 [Publisher page](https://www.nature.com/articles/s41598-025-99272-6)  
-🔗 [DOI](https://doi.org/10.1038/s41598-025-99272-6)
+📄 [Download PDF](/files/scientific_reports_2025.pdf)
