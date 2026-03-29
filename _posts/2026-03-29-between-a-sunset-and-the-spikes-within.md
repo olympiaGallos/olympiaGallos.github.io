@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Between a Rosa Nera Sunset and the Spikes Within"
 date: 2026-03-29
 permalink: /posts/2026/03/sunset-and-spikes/
