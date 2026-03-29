@@ -9,9 +9,6 @@ main:
     
   #- title: "Portfolio"
   #  url: /portfolio/
-    
-  - title: "CV"
-    url: /files/cv_olympia_2024.pdf
 
   - title: "News"
     url: /news/
@@ -19,14 +16,17 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Blog Posts"
+    url: /posts/
+
+  - title: "CV"
+    url: /cv/
+
   - title: "Projects"
     url: /projects/
 
   - title: "Workshops"
     url: /workshops/
-
-  - title: "Blog Posts"
-    url: /posts/
 
   - title: "Photography"
     url: /photography/
