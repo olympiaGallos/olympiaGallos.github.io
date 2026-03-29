@@ -16,6 +16,13 @@ tags:
 
 ![Rosa Nera sunset](/images/rosaNera.jpg)
 
+<iframe width="100%" height="315"
+src="https://www.youtube.com/embed/xwefSiBTC04"
+title="YouTube video player"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
 There is something about electricity at sunset. 
 Or is it something inside me that’s happening when I look at it?
 
