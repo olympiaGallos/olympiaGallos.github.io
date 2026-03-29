@@ -144,6 +144,8 @@ In the end, it was never about leaving one field for another…
 It was about realizing that 
 >the same current flows through both.
 
-Zurich, 29/03/2026.
+Zurich, 
+29/03/2026.  
+
 Olympia
 
