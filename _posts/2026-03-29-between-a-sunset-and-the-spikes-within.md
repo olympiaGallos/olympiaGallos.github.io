@@ -38,7 +38,7 @@ Tiny currents flowing across membranes.
 Ions drifting through channels.  
 Voltage differences building, collapsing, propagating, waves of activity unfolding in time..
 
-Our tiny neurons are speaking in spikes.
+<span style="color:#e63946;">Our tiny neurons are speaking in *spikes*.</span>
 
 And somehow, between those fluctuations, there is something that resembles a code.
 Not purely binary as I once knew, but not entirely foreign either. 
@@ -53,13 +53,13 @@ Right now, I’m mapping concepts with my brain, just because I felt an urge to 
 A memory is a pattern of connectivity.  A sensation is at the end a transformation of signals.  
 A decision at the very end… is a threshold crossing.
 
-Everything reduces beautifully to activity in circuits and systems.
+*Everything reduces beautifully to activity in circuits and systems.*
 And our brain is a living circuit.
 And the unparalleled beauty in it, is that it perceives, rewires itself, adapts, learns and also forgets.
 
 Its components are noisy, unreliable, heterogeneous and yet together, they give rise to something truly astonishing. 
-Our own experience in this world!!!
----
+*Our own experience in this world.*
+------
 
 I’m looking again at the picture. Oh..On a second thought-my brain decided to update its internal model and reframe my view. 
 There was some stress there, too. I remember now.
@@ -68,7 +68,7 @@ Deadlines that felt like hard constraints.
 Multiple lab projects that stretched into the night.  
 Code that wouldn’t compile and bugs I couldn't debug. 
 Circuits and results that "refused" to behave. 
-That “am I good enough?” or "am I suited for this" crippling-kind of feeling.
+That *“am I good enough?”* or *"am I suited for this"* crippling-kind of feeling.
 
 Now looking through the lens of neuroscience, stress itself becomes part of the system.
 A modulation of neural activity. A shift in dynamics.  Like a reconfiguration.
@@ -89,9 +89,10 @@ Expanding from studying designed systems and controlled environments to evolved 
 
 But the language remained more or less the same.
 
-Signals..Dynamics...Energy...Information
+<span style="color:#6c757d;">Signals. Dynamics. Energy. Information.</span>
 
 (if I could visualize this "aha" moment, my neurons would probably be partying...)
+
 ---
 
 There is something deeply nostalgic in realizing that the equations I once solved on paper now describe living tissue from different animals.
@@ -103,7 +104,7 @@ Somewhere between those sunsets in Crete and my lab/home of today, the abstracti
 
 Electricity stopped being just a tool for building systems.
 
-It became the medium through which we exist. The substrate of experience itself. And now I realise how privileged I am to still be studying it, only now through a slightly different lens.. The brain.
+It became the medium through which we exist. **The substrate of experience itself **. And now I realise how privileged I am to still be studying it, only now through a slightly different lens.. The brain.
 
 And maybe that is the most humbling realization of all..
 
@@ -126,7 +127,8 @@ From engineered systems to living ones.
 From understanding electricity… to understanding biological brain’s extraordinary intelligence, to decoding “ourselves”, our brain pathologies, and learning to close the loop by engineering systems that speak the same electrical language. And since they speak the same language, hooray!! we can interface back!
 
 In the end, it was never about leaving one field for another…
-It was about realizing that the same current flows through both.
+It was about realizing that 
+>the same current flows through both.
 
 Zurich, 29/03/2026.
 Olympia
