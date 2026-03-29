@@ -13,6 +13,8 @@ header:
   caption: "Chania, Crete"
 ---
 
+![Rosa Nera sunset 2016](/images/rosaNera.jpg)
+
 There is something about electricity at sunset. 
 Or is it something inside me that’s happening when I look at it?
 
