@@ -8,7 +8,8 @@ tags:
   - engineering
   - personal
 header:
-  image: /images/rosaNera.jpg
+  overlay_image: /images/rosaNera.jpg
+  overlay_filter: 0.3
   caption: "Chania, Crete"
 ---
 
