@@ -25,10 +25,12 @@ Ten years ago, I stood above the port of Chania (my old home from 18-23), at the
 
 Trying to learn a new syntax, compiling and debugging code, performing experiments, parameters shaping different behavior, writing reports. Signals in, signals out. Kirchhoff’s and Ohm’s laws, more transfer functions, more waveforms, more equations.. More exploration, less exploitation. Not just in systems, but in life...A time when I was, for the first time, free and far from home, learning how to navigate both engineering and myself. 
 
-Did it make sense back then?  Not at all actually. But maybe that was the point, a kind of grace period. It might sound (already) nostalgic, but it's not nostalgia. It's more tha clarity or better a perspective that comes with distance over time.
----
+Did it make sense back then?  Not at all actually. 
+But maybe that was the point, a kind of grace period. It might sound nostalgic, but it's not nostalgia. 
 
-After almost 10 years looking at this picture, something “spiked”.
+It's more the clarity or a perspective that comes with distance over time.
+---
+After almost 10 years looking at this picture, *something “spiked”*.
 What I didn’t yet realize back then was that I was already studying the language of the brain.
 
 Because at its core, neuroscience is not so different. 
@@ -38,7 +40,7 @@ Tiny currents flowing across membranes.
 Ions drifting through channels.  
 Voltage differences building, collapsing, propagating, waves of activity unfolding in time..
 
-<span style="color:#e63946;">Our tiny neurons are speaking in *spikes*.</span>
+Our tiny neurons are speaking in *spikes*.
 
 And somehow, between those fluctuations, there is something that resembles a code.
 Not purely binary as I once knew, but not entirely foreign either. 
@@ -47,7 +49,7 @@ Patterns. Timing. Sequences. Representations. The notion of absence and presence
 A different kind of computation
 ---
 
-From where did this thought come from? We often imagine thoughts as abstract, short-lived entities that magically emerge in our heads. Memories feel like stories, emotions like waves that come and go, identity like something continuous and relatively stable (maybe not so, am I having an identity crisis? In that ppicture I was 19!!!). But underneath, there is nothing mystical, only dynamics…
+From where did this thought come from? We often imagine thoughts as abstract, short-lived entities that magically emerge in our heads. Memories feel like stories, emotions like waves that come and go, identity like something continuous and relatively stable (maybe not so, In that picture I was 19 -am I having an identity crisis?). But underneath, there is nothing "mystical", only dynamics…
 Right now, I’m mapping concepts with my brain, just because I felt an urge to write. (Where did this urge come from?)
 
 A memory is a pattern of connectivity.  A sensation is at the end a transformation of signals.  
@@ -59,9 +61,10 @@ And the unparalleled beauty in it, is that it perceives, rewires itself, adapts,
 
 Its components are noisy, unreliable, heterogeneous and yet together, they give rise to something truly astonishing. 
 *Our own experience in this world.*
-------
+----
 
-I’m looking again at the picture. Oh..On a second thought-my brain decided to update its internal model and reframe my view. 
+I’m looking again at the picture. *Oh..*
+On a second thought-*my brain decided to update its internal model and reframe my view.* 
 There was some stress there, too. I remember now.
 
 Deadlines that felt like hard constraints.  
@@ -74,12 +77,12 @@ Now looking through the lens of neuroscience, stress itself becomes part of the 
 A modulation of neural activity. A shift in dynamics.  Like a reconfiguration.
 Cortical patterns are altered and neuromodulators released. And even time perception warps.
 
-Stress is not just something we experience.
-It is something our living brain creates.
+*Stress* is not just something we experience.
+It is something *our living brain creates*.
 ---
 
 At the start of my phd journey, I was thinking that going from engineering to neuroscience was such a huge change.
-I know that I am drawn to the brain more than any other organ, but let's be honest: what do I know about the nervous system after all? Nothing!
+I know that I am drawn to the brain more than any other organ, but let's be honest: *what do I know about the nervous system after all?* Nothing!
 
 Looking back now, I see that transition more as a change of scale, rather than field. I don’t know if that is an overstatement or an oversimplification. 
 
@@ -87,7 +90,7 @@ Expanding from silicon to biology.
 Expanding from deterministic to probabilistic.  
 Expanding from studying designed systems and controlled environments to evolved ones, operating under uncertainty.
 
-But the language remained more or less the same.
+But the language remained -more or less- the same.
 
 <span style="color:#6c757d;">Signals. Dynamics. Energy. Information.</span>
 
@@ -95,7 +98,7 @@ But the language remained more or less the same.
 
 ---
 
-There is something deeply nostalgic in realizing that the equations I once solved on paper now describe living tissue from different animals.
+Now there is something deeply nostalgic in realizing that the equations I once solved on paper describe living tissue from different animals.
 That the same basic principles governing a simple RC circuit can approximate the membrane of a neuron.
 Concepts I learned in lecture halls and online videos, are the very mechanisms through which perception emerges.
 And slowly I started seeing the connections. Well actually, my brain began making connections about connections… [What is really driving this delirium?]
@@ -104,19 +107,20 @@ Somewhere between those sunsets in Crete and my lab/home of today, the abstracti
 
 Electricity stopped being just a tool for building systems.
 
-It became the medium through which we exist. **The substrate of experience itself **. And now I realise how privileged I am to still be studying it, only now through a slightly different lens.. The brain.
+It became the medium through which we exist. **The substrate of experience itself **. And now I realise how privileged I am to still be studying it, only now through a slightly different lens -> The brain.
 
-And maybe that is the most humbling realization of all..
+And maybe that is the most humbling realization of all...
 
-Everything living carries energy.
-And much of it flows as electricity.
-Everything we are…
-every memory of a face or place,  
-every feeling of warmth from a sunset or the dew of the sea,  
-every sense of self…
-is encoded in patterns of neural electrical activity.
+>Everything living carries energy.
+>And much of it flows as electricity.
+>Everything we are…
+>every memory of a face or place,  
+>every feeling of warmth from a sunset or the dew of the sea,  
+>every sense of self…
+>is encoded in patterns of neural electrical activity.
 
-Transient. Ever-changing. Dynamic in every sense of the word. 
+
+*Transient. Ever-changing. Dynamic in every sense of the word.*
 
 ---
 
