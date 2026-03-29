@@ -7,13 +7,13 @@ tags:
   - neuromorphic
   - engineering
   - personal
-header:
-  overlay_image: /images/rosaNera.jpg
-  #overlay_filter: 0.
-  caption: "Chania, Crete"
+#header:
+#  overlay_image: /images/rosaNera.jpg
+#  overlay_filter: 0.3
+#  caption: "Chania, Crete"
 ---
 
-![Rosa Nera sunset 2016](/images/rosaNera.jpg)
+![Rosa Nera sunset](/images/rosaNera.jpg)
 
 There is something about electricity at sunset. 
 Or is it something inside me that’s happening when I look at it?
