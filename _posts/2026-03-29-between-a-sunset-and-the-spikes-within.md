@@ -9,7 +9,7 @@ tags:
   - personal
 header:
   overlay_image: /images/rosaNera.jpg
-  overlay_filter: 0.45
+  #overlay_filter: 0.
   caption: "Chania, Crete"
 ---
 
